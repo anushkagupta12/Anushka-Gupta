@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import pic from '../assets/pic.jpeg'
 
 const AboutMe = () => {
   return (
@@ -34,7 +35,7 @@ const AboutMe = () => {
             </svg>
           </div>
           <img
-            src="src\assets\pic.jpeg" // Replace with your profile image URL
+            src={pic} // Replace with your profile image URL
             alt="Anushka Gupta"
             className="rounded-full w-80 h-90 object-cover border-4 border-white shadow-lg"
           />
