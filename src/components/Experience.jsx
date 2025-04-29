@@ -6,7 +6,7 @@ const experienceData = [
   {
     title: 'Internship at IIT Guwahati',
     organization: 'IIT Guwahati',
-    duration: 'June 2022 - August 2022',
+    duration: 'December 2024 - January 2025',
     responsibilities: [
       'Built a CNN model for water classification.',
       'Optimized the model with hyperparameter tuning.',
